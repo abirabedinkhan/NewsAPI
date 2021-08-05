@@ -20,7 +20,7 @@ After running your server at http://127.0.0.1:5000/
 
 ### Input
 ```
-  /politico?q={parmiter}
+  /politico?q={value}
 ```
 ### Output
 ```
@@ -53,7 +53,7 @@ After running your server at http://127.0.0.1:5000/
 ```
 ### Input
 ```
-  /samakal?q={parmiter}
+  /samakal?q={value}
 ```
 ### Output
 ```
